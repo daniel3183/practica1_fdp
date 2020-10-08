@@ -1,2 +1,2 @@
 # practica1_fdp
-si
+Daniel Vazquez Alvaez Facultad de ingeniería
